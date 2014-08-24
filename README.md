@@ -1,5 +1,5 @@
-osx-homebrew-path
-=================
+homebrew-path
+=============
 
 An Ansible role to configure PATH for homebrew
 
@@ -23,7 +23,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - hnakamur.osx-homebrew
+         - hnakamur.homebrew-path
 
 License
 -------
