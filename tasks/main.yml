@@ -1,2 +1,2 @@
 ---
-- template: src=homebrew.zsh.j2 dest={{ zsh_custom_dir }}/homebrew.zsh
+- template: src=homebrew.zsh.j2 dest={{ zsh_custom_dir }}/00-homebrew.zsh
